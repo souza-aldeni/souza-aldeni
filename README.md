@@ -13,8 +13,8 @@ Em busca de meus objetivos tenho estudado os seguintes temas:
  + MySQL;
  + Angular;
  + NodeJS;
- + Finalizei o Programa Start da Capgemini (FullStack);
- + Estou fazendo o BootCamp Fullstack da DIO;
+ + Programa Start da Capgemini (FullStack);
+ + BootCamp Fullstack da DIO (em andamento);
 
-Estou aberto a propostas para trabalho presencial e homework, analiso prpostas de outras regiões e tenho disponibilidade para viajar a trabalho.
+Estou aberto a propostas para trabalho presencial e homeoffice, analiso prpostas de outras regiões e tenho disponibilidade para viajar a trabalho.
 Email para contato: souza.aldeni@hotmail.com.br
