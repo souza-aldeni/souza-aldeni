@@ -7,7 +7,9 @@ no Bradesco, como:
 - Prospecção de clientes;
 - Consultoria;
 - Vendas;
+
 Em busca de meus objetivos tenho estudado os seguintes temas:
+
 - Java;
 - JavaScript;
 - Python;
@@ -17,6 +19,7 @@ Em busca de meus objetivos tenho estudado os seguintes temas:
 - MySQL;
 - Angular;
 - NodeJS;
+
 Participei do programa Start Capgemini e atualmente estou fazendo o BootCamp da Dio para Desenvolvedor FullStack.
 Estou aberto a propostas para trabalho presencial e homeoffice, analiso propostas de outras regiões e tenho disponibilidade para viajar a trabalho.
 Email para contato: souza.aldeni@hotmail.com.br Whatsapp 71-988158118.
