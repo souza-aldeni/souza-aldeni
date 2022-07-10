@@ -1,5 +1,5 @@
 Olá!, me chamo Aldeni R. Souza, tenho 44 anos e sou formado em Ciências da Computação com Ênfase em Análise de Sistemas pela Universidade Salvador - UNIFACS. Neste 
-momento estou procurando uma realocação no mercado de trabalho como Desenvolvedor FullStack Jr. Mesmo formado em TI, não estava trabalhando na minha área e após 17 anos 
+momento estou procurando uma realocação profissional como Desenvolvedor FullStack Jr. Mesmo formado em TI, não estava trabalhando na minha área e após 17 anos 
 trabalhando como Bancário em um dos maiores Bancos Brasileiro (Bradesco), estou em transição de carreira. Levo comigo toda a experiência adquirida ao longo destes anos 
 no Bradesco, como:
 - Gestão e gerenciamento de carteira de clientes;
