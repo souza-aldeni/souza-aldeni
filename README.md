@@ -18,8 +18,8 @@ Em busca de meus objetivos tenho estudado os seguintes temas:
 - CSS;
 - MySQL;
 - Angular;
-- NodeJS;
+- Flutter;
 
-Participei do programa Start Capgemini e atualmente estou fazendo o BootCamp da Dio para Desenvolvedor FullStack.
+Participei do programa Start Capgemini e BootCamp da Dio para Desenvolvedor FullStack.
 Estou aberto a propostas para trabalho presencial e homeoffice, analiso propostas de outras regiões e tenho disponibilidade para viajar a trabalho.
 Email para contato: souza.aldeni@hotmail.com.br Whatsapp 71-988158118.
